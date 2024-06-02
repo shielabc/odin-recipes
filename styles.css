@@ -1,0 +1,64 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(133, 248, 242);
+    color: rgb(0, 38, 43);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: 800;
+}
+
+#main-title {
+    font-size: 35px;
+    background-color: #ffffff;
+}
+
+.recipes {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+a:link,
+a:visited {
+    color: rgb(0, 38, 43); 
+}
+
+a:hover,
+a:active {
+    color: #ffffff;
+    background-color: #4b4bb6;
+}
+
+.main-photo {
+    text-align: center;
+}
+
+div {
+    font-size: 14px;
+    text-align: left;
+}
+
+h2,
+h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+}
+
+.second-div {
+    color: #ffffff;
+    background-color: hsla(174, 66%, 22%, 0.596);
+}
+
+.second-div h3,
+.second-div p {
+    font-style: italic;
+}
+
+.back-link {
+    font-weight: 800;
+    font-size: 16px;
+    text-align: center;
+    background-color: #ffffff;
+}
